@@ -5,7 +5,7 @@ def fizzbuzz (int)
     "Buzz"
   elsif both
     "FizzBuzz"
-  if false
+  else
     "nil"
   end
 end
